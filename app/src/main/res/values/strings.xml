@@ -2,5 +2,7 @@
     <string name="careplus">carePLUS</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_Account_fragment">Account Fragment</string>
+    <string name="hello_Home_fragment">Home Fragment</string>
+    <string name="hello_Schedule_fragment">Schedule Fragment</string>
 </resources>
